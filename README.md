@@ -1,8 +1,8 @@
-(https://scontent.fcgp3-1.fna.fbcdn.net/v/t39.30808-6/311297693_660520595685814_26898352156109177_n.jpg?stp=dst-jpg_p720x720&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGh8M-V7PqS3bHh7kU_ZI_FVplch5OwzgJWmVyHk7DOAjKbUlF2svOiVgZHsQnRG1vHrQocdm-Aja4nzFinqhSu&_nc_ohc=-OgskpSOgS0Q7kNvgEqNWOs&_nc_ht=scontent.fcgp3-1.fna&oh=00_AYAwmLdbc5NeLwp0KplFKcJ-t_YNWnwMJGzPzzrkyZUPuA&oe=667DA6AA)
+![Passionate Web-Developer](https://scontent.fcgp3-1.fna.fbcdn.net/v/t39.30808-6/311297693_660520595685814_26898352156109177_n.jpg?stp=dst-jpg_p720x720&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGh8M-V7PqS3bHh7kU_ZI_FVplch5OwzgJWmVyHk7DOAjKbUlF2svOiVgZHsQnRG1vHrQocdm-Aja4nzFinqhSu&_nc_ohc=-OgskpSOgS0Q7kNvgEqNWOs&_nc_ht=scontent.fcgp3-1.fna&oh=00_AYAwmLdbc5NeLwp0KplFKcJ-t_YNWnwMJGzPzzrkyZUPuA&oe=667DA6AA)
+
 
 ### Hi there 👋, I'm Akshor Dutta
 #### Passionate Web-Developer
-![Passionate Web-Developer]
 
 I’m a Front End Web developer passionate about making error-free websites with 100% client satisfaction. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with WordPress but some technologies I enjoy working with include ReactJS, JavaScript as well as PHP.
 
